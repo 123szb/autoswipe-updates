@@ -1,6 +1,7 @@
    {
-     "versionCode": 2,
+     "versionCode": 3,
      "versionName": "1.2",
      "downloadUrl": "https://github.com/123szb/autoswipe-updates/raw/main/app-debug.apk",
      "updateNotes": "修复返回键失效问题\n修复键盘无法打开问题\n优化无障碍服务配置\n提升悬浮窗兼容性"
+
    }
